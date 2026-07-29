@@ -5,7 +5,8 @@ import HotelDetails from './pages/HotelDetails'
 import HomePage from './pages/HomePage'
 import Footer from './components/Footer'
 
-export const backendUrl = 'http://localhost:4000'
+// export const backendUrl = 'http://localhost:4000'
+export const backendUrl = 'https://hotel-booking-server-uzxa.onrender.com';
 
 
 const App = () => {
